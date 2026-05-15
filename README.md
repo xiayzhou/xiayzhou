@@ -2,7 +2,7 @@
 
 <p align="center">please read rentries before interacting ♡</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-jiumeili)
+![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=faf0e6)
 
 
 
