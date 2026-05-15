@@ -2,3 +2,6 @@
 
 <p align="center">please read rentries before interacting ♡</p>
 
+![Profile Views](jiumeili)
+
+
