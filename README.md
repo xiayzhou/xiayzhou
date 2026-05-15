@@ -2,6 +2,7 @@
 
 <p align="center">please read rentries before interacting ♡</p>
 
-![Profile Views]((https://github.com/jiumeili))
+[![Profile Views](https://komarev.com)](jiumeili)
+
 
 
