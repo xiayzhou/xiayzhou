@@ -1,10 +1,10 @@
-<img width="800" height="555" alt="IMG_2262" src="https://github.com/user-attachments/assets/d2993ffd-1ec5-4533-a394-f4cdcaa98f6f" />
+<img width="1152" height="648" alt="IMG_2470" src="https://github.com/user-attachments/assets/947fc26d-30c6-468b-9b3e-fb576fc08092" />
 
 
 
 <p align="center">please read rentries before interacting ♡</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=CFB53B&label=wishes%20)
+![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=wishes%20)
 
 
 
