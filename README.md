@@ -2,9 +2,9 @@
 
 
 
-<p align="center">please read rentries before interacting ♡</p>
+<p align="center">please read rentries before interacting.</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=wishes%20)
+![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=apples%20)
 
 
 
